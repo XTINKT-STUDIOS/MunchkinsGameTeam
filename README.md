@@ -1,8 +1,9 @@
 # MunchkinsGameTeam
-## Parody of the card game "Munchkins Deluxe"
-
+### Parody of the card game "Munchkins Deluxe"
+#### Developed by some highschool students in an honours computer science class lmao
+<br /><br />
 ## Developers
-#### !! NO PARTICULAR ORDER !!
+##### !! NO PARTICULAR ORDER !!
 ### Jacob C    - Lead Developer
 ### Bradley S  - Concept & Design? (Edit this ig)
 ### Brian C    - Class & Race System
