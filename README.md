@@ -1,6 +1,8 @@
 # MunchkinsGameTeam
 ### Parody of the card game "Munchkins Deluxe"
 ###### Developed by some highschool students in an honours computer science class lmao
+###### !! TRY TO BACKUP FREQUENTLY BY CREATING A NEW BRANCH NAMED "backup-r#" WITH THE '#' BEING REPLACED BY THE NUMBER OF BACKUP IT IS !!
+###### (If you don't know how to do that, just message me and I'll back it up)
 <br />
 
 ## File Structures
