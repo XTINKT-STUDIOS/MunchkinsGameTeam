@@ -12,12 +12,13 @@ public class Treasure {
 		discard = new Stack<ArrayList<String>>();
 
 		for(int i = 1; i < getFilesCount(path); i++){
-			Scanner scan = new Scanner(new File("treasure\\treasure " + i + ".dat"));
+			Scanner scan = new Scanner(new File("./treasure/treasure " + i + ".mtreasure"));
 			ArrayList<String> info = new ArrayList<String>();
 			while(scan.hasNextLine()) {
 				info.add(scan.nextLine().substring(2));
 			}
 			deck.add(info);
+			System.out.println(deck);
 		}
 	}
 

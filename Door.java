@@ -13,7 +13,7 @@ public class Door {
 		discard = new Stack<ArrayList<String>>();
 
 		for(int i = 1; i < getFilesCount(path); i++){
-			Scanner scan = new Scanner(new File("door\\door " + i + ".dat"));
+			Scanner scan = new Scanner(new File("./door/door " + i + ".dat"));
 			ArrayList<String> info = new ArrayList<String>();
 			while(scan.hasNextLine()) {
 				info.add(scan.nextLine().substring(2));
