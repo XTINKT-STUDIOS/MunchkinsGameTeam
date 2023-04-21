@@ -26,8 +26,13 @@
           <td>(Edit to the correct structure).</td>
         </tr>
         <tr>
-          <td>l</td>
+          <td>b</td>
           <td>level</td>
+          <td />
+        </tr>
+        <tr>
+          <td>t</td>
+          <td>treasures</td>
           <td />
         </tr>
         <tr>

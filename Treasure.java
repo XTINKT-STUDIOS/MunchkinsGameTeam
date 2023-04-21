@@ -5,14 +5,14 @@ import java.util.*;
 public class Treasure {
 	private ArrayList<ArrayList<String>> deck;
 	private Stack<ArrayList<String>> discard;
-	private Path path = Paths.get("src\\treasure");
+	private Path path = Paths.get("treasure");
 
 	public Treasure() throws Exception{
 		deck = new ArrayList<ArrayList<String>>();
 		discard = new Stack<ArrayList<String>>();
 
 		for(int i = 1; i < getFilesCount(path); i++){
-			Scanner scan = new Scanner(new File("src\\treasure\\treasure " + i + ".dat"));
+			Scanner scan = new Scanner(new File("treasure\\treasure " + i + ".dat"));
 			ArrayList<String> info = new ArrayList<String>();
 			while(scan.hasNextLine()) {
 				info.add(scan.nextLine().substring(2));
