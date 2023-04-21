@@ -23,7 +23,7 @@
         <tr>
           <td>n</td>
           <td>name</td>
-          <td>Edit to the correct structure).</td>
+          <td>(Edit to the correct structure).</td>
         </tr>
         <tr>
           <td>l</td>
