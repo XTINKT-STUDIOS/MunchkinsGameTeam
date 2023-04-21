@@ -1,0 +1,3 @@
+n is name
+b is bonus(int)
+d is description
