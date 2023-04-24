@@ -86,15 +86,15 @@
   </tr>
   <tr>
     <td>Jacob C</td>
-    <td>Lead Developer</td>
+    <td>Game & Run Classes</td>
   </tr>
   <tr>
     <td>Bradley S</td>
-    <td>Concept & Design? (Edit this ig)</td>
+    <td>Helper Robot</td>
   </tr>
   <tr>
     <td>Brian C</td>
-    <td>Class & Race System</td>
+    <td>Player Class</td>
   </tr>
   <tr>
     <td>Jonathan C</td>
