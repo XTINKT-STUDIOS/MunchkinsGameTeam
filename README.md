@@ -61,7 +61,17 @@
         <tr>
           <td>b</td>
           <td>bonus</td>
+          <td>int, or 'GUAL' if level-up</td>
+        </tr>
+        <tr>
+          <td>r</td>
+          <td>run bonus</td>
           <td />
+        </tr>
+        <tr>
+          <td>L</td>
+          <td>location</td>
+          <td>head = 0; body = 1; hands = 2; feet = 3</td>
         </tr>
         <tr>
           <td>d</td>
