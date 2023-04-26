@@ -42,6 +42,10 @@
           <td>description</td>
           <td />
         </tr>
+        <tr>
+          <td>g</td>
+          <td>sell amount</td>
+        </tr>
       </table>
       <br />
     </td>
@@ -96,11 +100,11 @@
   </tr>
   <tr>
     <td>Jacob C</td>
-    <td>Game & Run Classes</td>
+    <td>Lead Programmer</td>
   </tr>
   <tr>
     <td>Bradley S</td>
-    <td>Helper Robot</td>
+    <td>Supreme Helper Robot</td>
   </tr>
   <tr>
     <td>Brian C</td>
