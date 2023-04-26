@@ -1,4 +1,4 @@
-# MunchkinsGameTeam
+# Mankin
 
 ```                       __                     
  /'\_/`\                 /\ \      __            
