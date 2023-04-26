@@ -1,6 +1,6 @@
 # MunchkinsGameTeam
 ### Parody of the card game "Munchkins Deluxe"
-###### Developed by some highschool students in an honours computer science class lmao
+##### Developed by some highschool students in an honours computer science class lmao
 ###### !! TRY TO BACKUP FREQUENTLY BY CREATING A NEW BRANCH NAMED "backup-r#" WITH THE '#' BEING REPLACED BY THE NUMBER OF BACKUP IT IS !!
 ###### (If you don't know how to do that, just message me and I'll back it up)
 <br />
@@ -96,14 +96,18 @@
   </tr>
   <tr>
     <td>Jacob C</td>
-    <td>Game & Run Classes</td>
+    <td>Lead Programmer</td>
   </tr>
   <tr>
     <td>Bradley S</td>
-    <td>Helper Robot</td>
+    <td>Supreme Helper Robot</td>
   </tr>
   <tr>
     <td>Brian C</td>
+    <td>Player Class</td>
+  </tr>
+  <tr>
+    <td>David M</td>
     <td>Player Class</td>
   </tr>
   <tr>
@@ -113,5 +117,9 @@
   <tr>
     <td>Brody M</td>
     <td>Treasure Cards Assembly & Implementation</td>
+  </tr>
+  <tr>
+    <td>Keenan G</td>
+    <td>CodeCheck</td>
   </tr>
 </table>
