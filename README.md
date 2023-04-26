@@ -74,6 +74,11 @@
           <td>head = 0; body = 1; hands = 2; feet = 3</td>
         </tr>
         <tr>
+          <td>g</td>
+          <td>sell amount</td>
+          <td />
+        </tr>
+        <tr>
           <td>d</td>
           <td>description</td>
           <td />

@@ -1,0 +1,4 @@
+n Recursive Code
+b 4
+t 2
+d If you lose, it'll trap you in an infinite loop.
