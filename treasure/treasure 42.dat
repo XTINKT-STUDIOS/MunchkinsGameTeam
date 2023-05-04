@@ -1,3 +1,6 @@
 n Magic Missle
 b 5
-d 300 Gold; Play during any combat; Usable only once
+r 0
+l -1
+g 300
+d Aren't these supposed to track people?!

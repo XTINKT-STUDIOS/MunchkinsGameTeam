@@ -1,9 +1,11 @@
-import java.util.*; // Try to specify which java.util packages are being used rather than importing them all - brody
+import java.util.*;
 
 public class Player {
 
 	private ArrayList<ArrayList<String>> cards = new ArrayList<ArrayList<String>>();
-	private ArrayList<ArrayList<String>> items = new ArrayList<ArrayList<String>>();
+	private ArrayList<ArrayList<String>> items = new ArrayList<ArrayList<String>>(); //maybe have a 
+    //separate variable that holds the total bonuses?
+
 	// true = male | false = female
     private Boolean sex;
     // [0] class name | [1] Attack bonus | [2] Run bonus
@@ -12,17 +14,19 @@ public class Player {
     private Scanner x = new Scanner(System.in);
     private int level = 1;
     private String name = ""; 
+    // [0] head | [1] body | [2] left | [3] right | [4] feet
+    private boolean[] slot = {false, false, false, false, false};
 
     public Player(Treasure treasure) throws Exception {  
     	for(int i = 0; i < 5; i++){
     		cards.add(treasure.get());
-    	}
-    	
+    	} 
+
     	// sets gender
         while(sex == null){
         	System.out.println("Sex: [M]ale or [F]emale?");
         	String gender = x.nextLine();   
-        	if(gender.length() != 1){
+        	if(gender.length() != 1 && (!gender.toLowerCase().equals("m") && !gender.toLowerCase().equals("f"))){
         		System.out.println("Try again");
         	}else if(gender.toLowerCase().equals("m")){
         		sex = true;
@@ -72,12 +76,12 @@ public class Player {
             }
          }
 
-            //race
+            // sets race
              while(race[0] == null){
-            System.out.println("What race do you want to be?\n [P]inaeapple\n [D]emon\n [R]agon\n [G]oose\n [Z]ebra\n [J]oe Rogan");       	
+            System.out.println("What race do you want to be?\n [P]ineapple\n [D]emon\n [R]agon\n [G]oose\n [Z]ebra\n [J]oe Rogan");       	
         	String raw = x.nextLine();   
         	if(raw.toLowerCase().equals("p")){
-        		race[0] = "Pinaeapple";
+        		race[0] = "Pineapple";
                 race[1] = "1";
                 race[2] = "2";
         	}else if(raw.toLowerCase().equals("d")){
@@ -103,25 +107,141 @@ public class Player {
             }else{
                 System.out.println("Try again!");
             }
-        }
-
-        
-        
-        
+        }       
     }
     
     // returns level
     public int getLevel() {return level;}
+    public void incrementLevel() {level++;}
+    public String getName() {return name;}
 
-    // returns player class stats
-    public int getAttack() {return Integer.parseInt(job[1]) + level;} 
-    public int getRun() {return Integer.parseInt(job[2]);}
+    // returns player class and race stats
+    public int getAttack() {
+		int atk = 0;
+		for(int i = 0; i < items.size()-1;i++){
+			atk += Integer.parseInt(items.get(i).get(1)); 		} 
+		return atk + Integer.parseInt(job[1]) + (Integer.parseInt(race[1]));
+		} 
+		
+    public int getRun() {
+		int p = 0;
+		for(int i = 0; i < items.size()-1;i++){
+			p += Integer.parseInt(items.get(i).get(2)); 		} 
+		return p + Integer.parseInt(job[2]) + (Integer.parseInt(race[2]));
+		}
+    
+    //public useItem() method
+    public void useItem(int index) throws Exception {
+		if(cards.get(index).get(1).equals("GUAL")){
+			incrementLevel();
+		    cards.remove(index);
+		}else{
+           equip(index); 
+        }
+    }
+
+    //removes the card
+    public void removeCard(int num){
+       cards.remove(num);
+    }
+
+    //returns the number of items
+    public int getNumItems() {
+    	return items.size();
+    }
+    
+    //returns the number of cards
+    public int getNumCards() {
+    	return cards.size();
+    }
+
+    //get the gender
+    public String getGender() {
+        return sex ? "M" : "F";
+    }
+
+    //returns player item
+    public String getItems(){
+        String place = "";
+        for(int i = 0; i < items.size(); i++){
+            place += "["+i+"] "+items.get(i).get(0)+": "+items.get(i).get(5)+"\n";
+        }
+        return place;
+    }
+	
+    //returns the items in a string format
+    public ArrayList<String> getItem(int p){
+        return items.get(p);
+    }
+
+    //slot indexes: [0] head | [1] body | [2] left | [3] right | [4] feet
+	public void equip(int v){
+       int ind = Integer.parseInt(cards.get(v).get(3));
+       
+       removeEquip(ind);
+       
+       if(ind == 3){
+           if(!slot[4]){		
+               slot[4] = true;
+               items.add(cards.remove(v));
+           }
+       }else if(ind == 2){
+           if(!slot[2]){
+               slot[2] = true;
+             items.add(cards.remove(v));
+           }else if(!slot[3]){
+             slot[3] = true;
+             items.add(cards.remove(v));
+            } 
+       }else if(ind >= 0){
+           if(!slot[ind]){
+               slot[ind] = true;
+               items.add(cards.remove(v));
+           }
+       } else if(ind < 0) {
+    	   items.add(cards.remove(v));
+       } else {
+           System.out.println("You can't equip it! Too bad no space!🤣");
+       }    
+	}
+	
+	//removes the equipped item
+    public void removeEquip(int ind){
+    	if(items.size() == 0) {
+    		return;
+    	}
+    	if(ind == 3){
+    		if(slot[4]) {
+    			slot[4] = false;
+    		} else { return;}
+        }else if(ind == 2){
+        	if(slot[2] && slot[3]) {
+            	if(slot[2]){
+            		slot[2] = false;
+            	}else if(slot[3]){
+            		slot[3] = false;
+            	}
+        	} else {
+        		return;
+        	}
+        }else if(ind >= 0){
+            if(slot[ind]){
+                slot[ind] = false;
+            } else { return; }
+        }
+    	for(int i = 0; i < getNumItems(); i++) {
+    		if(items.get(i).get(3).equals(""+ind)) {
+    			items.remove(i);
+    			break;
+    		}
+    	}
+    }
 
     // returns player hand
     public String getCards(){
         String brun = "";
         for(int i = 0; i < cards.size(); i++){
-            brun += "("+i+") "+cards.get(i)+"\n";
+            brun += "["+i+"] "+cards.get(i).get(0)+": " + cards.get(i).get(5)+"\n";
         }
         return brun;
     }

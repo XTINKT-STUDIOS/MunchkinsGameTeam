@@ -1,3 +1,6 @@
 n Freezing Explosive Potion
 b 3
-d 100 Gold; Play during any combat; Usable only once
+r 0
+l -1
+g 100
+d Ice booms

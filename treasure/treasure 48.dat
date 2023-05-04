@@ -1,3 +1,6 @@
-n Kill the Hireling
+n Kill the Pineapple
 b GUAL
-d Go up a level; You can use this card only if a Hireling is in play (no matter who owns him). Discard the Hireling.
+r 0
+l -1
+g 0
+d Go up a level

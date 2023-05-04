@@ -1,3 +1,6 @@
 n Potion of Idiotic Bravery
 b 2
-d 100 Gold; Play during any combat; Usable only once
+r 0
+l -1
+g 100
+d Something feels funny...

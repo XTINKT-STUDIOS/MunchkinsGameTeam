@@ -1,3 +1,6 @@
 n Mutilate the Bodies
 b GUAL
-d Go up a level; This card can be played only after combat, but it doesnt not have to be *your* combat.
+r 0
+l -1
+g 0
+d This *has* to be illegal... right?
