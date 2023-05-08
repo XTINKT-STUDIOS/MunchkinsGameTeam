@@ -115,7 +115,7 @@
         <tr>
           <td>a</td>
           <td>action</td>
-          <td>GDAL [-1 level] | ATK [-random or num] | RUN [-random or num] | REM [-Random equip] | CAR [-random card] | ETX [Extra Munster] | LAL [Lose all levels]</td>
+          <td>GDAL | ATK | RUN| REM | CAR | ETX | LAL</td>
         </tr>
         <tr>
           <td>e</td>
