@@ -96,6 +96,33 @@
           <td />
         </tr>
       </table>
+      <table>
+        <tr>
+          <th>Key</th>
+          <th>Value</th>
+          <th>Notes</th>
+        </tr>
+        <tr>
+          <td>n</td>
+          <td>name</td>
+          <td />
+        </tr>
+        <tr>
+          <td>a</td>
+          <td>action</td>
+          <td>GDAL [-1 level] | ATK [-random or num] | RUN [-random or num] | REM [-Random equip] | CAR [-random card] | ETX [Extra Munster] | LAL [Lose all levels]</td>
+        </tr>
+        <tr>
+          <td>e</td>
+          <td>effect amount</td>
+          <td>Effect Amount [if (r) random amount (1-10)]</td>
+        </tr>
+        <tr>
+          <td>d</td>
+          <td>description</td>
+          <td />
+        </tr>
+      </table>
       <br />
     </td>
   </tr>
