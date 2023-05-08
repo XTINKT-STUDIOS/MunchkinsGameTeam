@@ -103,6 +103,20 @@
 
 <br />
 
+Example Of Inventory Information
+```
+=======================
+| Andrew Tate's Sword |
+|======< Hands >======|
+|---------------------|
+| Attack: +1          |
+| Run:    +0          |
+| Value:  600         |
+=======================
+```
+
+<br />
+
 ## Developers
 ###### !! NO PARTICULAR ORDER !!
 
