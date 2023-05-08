@@ -120,7 +120,7 @@
         <tr>
           <td>e</td>
           <td>effect amount</td>
-          <td>Effect Amount [if (r) random amount (1-10)]</td>
+          <td />
         </tr>
         <tr>
           <td>d</td>
