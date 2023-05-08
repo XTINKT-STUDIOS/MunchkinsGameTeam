@@ -24,6 +24,7 @@
   <tr>
     <th>Doors</th>
     <th>Treasures</th>
+    <th>Curses</th>
   </tr>
   <tr>
     <td>
@@ -96,6 +97,10 @@
           <td />
         </tr>
       </table>
+      <br />
+    </td>
+    <td>
+      <br />
       <table>
         <tr>
           <th>Key</th>
