@@ -198,13 +198,13 @@ Example Of Inventory Information
     <th>Notes</th>
   </tr>
   <tr>
-    <td>Example Treasure ID</td>
-    <td>Example Treasure Name</td>
-    <td>Example Treasure Fight Bonus</td>
-    <td>Example Treasure Run Bonus</td>
-    <td>Example Treasure Location on Body</td>
-    <td>Example Treasure Gold Value</td>
-    <td>Example Treasure Description</td>
-    <td>Example Treasure Notes</td>
+    <td>#0</td>
+    <td>Example Treasure</td>
+    <td>Integer</td>
+    <td>Integer</td>
+    <td>Integer; Head = 0; Left = 1; Right = 2; Armor = 3; Footwear = 4; Out-of-body = -1</td>
+    <td>Integer</td>
+    <td>Description for in-game clarity</td>
+    <td>Extra notes for development use</td>
   </tr>
 </table>
