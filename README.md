@@ -1210,3 +1210,26 @@ Example Of Inventory Information
     <td>Custom Made by a Mankin Developer</td>
   </tr>
 </table>
+
+<br />
+
+## Monsters Index
+
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Name</th>
+    <th>Level</th>
+    <th>Treasures</th>
+    <th>Description</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>#0</td>
+    <td>Example Monster</td>
+    <td>Integer</td>
+    <td>Integer</td>
+    <td>Description for in-game clarity</td>
+    <td>Extra notes for development use</td>
+  </tr>
+</table>
