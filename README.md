@@ -13,8 +13,6 @@
  
 ### Parody of the card game "Munchkins Deluxe"
 ##### Developed by some highschool students in an honours computer science class lmao
-###### !! TRY TO BACKUP FREQUENTLY BY CREATING A NEW BRANCH NAMED "backup-r#" WITH THE '#' BEING REPLACED BY THE NUMBER OF BACKUP IT IS !!
-###### (If you don't know how to do that, just message me and I'll back it up)
 <br />
 
 ## File Structures
@@ -150,7 +148,6 @@ Example Of Inventory Information
 <br />
 
 ## Developers
-###### !! NO PARTICULAR ORDER !!
 
 <table>
   <tr>
@@ -162,8 +159,16 @@ Example Of Inventory Information
     <td>Lead Programmer</td>
   </tr>
   <tr>
-    <td>Bradley S</td>
-    <td>Supreme Helper Robot</td>
+    <td>Brody M</td>
+    <td>Treasure Cards Assembly & Implementation, Github Manager</td>
+  </tr>
+  <tr>
+    <td>Jonathan C</td>
+    <td>Door Cards Assembly & Implementation</td>
+  </tr>
+  <tr>
+    <td>Bradley Sengele</td>
+    <td>Supreme Helper Robot, Curse Cards</td>
   </tr>
   <tr>
     <td>Brian C</td>
@@ -172,14 +177,6 @@ Example Of Inventory Information
   <tr>
     <td>David M</td>
     <td>Player Class</td>
-  </tr>
-  <tr>
-    <td>Jonathan C</td>
-    <td>Door Cards Assembly & Implementation</td>
-  </tr>
-  <tr>
-    <td>Brody M</td>
-    <td>Treasure Cards Assembly & Implementation</td>
   </tr>
   <tr>
     <td>Keenan G</td>
