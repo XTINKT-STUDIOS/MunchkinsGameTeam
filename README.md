@@ -183,3 +183,28 @@ Example Of Inventory Information
     <td>CodeCheck</td>
   </tr>
 </table>
+
+<br />
+
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Name</th>
+    <th>Fight Bonus</th>
+    <th>Run Bonus</th>
+    <th>Location on Body</th>
+    <th>Gold Value</th>
+    <th>Description</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Example Treasure ID</td>
+    <td>Example Treasure Name</td>
+    <td>Example Treasure Fight Bonus</td>
+    <td>Example Treasure Run Bonus</td>
+    <td>Example Treasure Location on Body</td>
+    <td>Example Treasure Gold Value</td>
+    <td>Example Treasure Description</td>
+    <td>Example Treasure Notes</td>
+  </tr>
+</table>
