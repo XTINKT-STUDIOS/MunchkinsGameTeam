@@ -186,6 +186,8 @@ Example Of Inventory Information
 
 <br />
 
+## Treasures Index
+
 <table>
   <tr>
     <th>Id</th>
