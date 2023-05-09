@@ -491,261 +491,261 @@ Example Of Inventory Information
   </tr>
   <tr>
     <td>#29</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Boots of Butt-Kicking</td>
+    <td>2</td>
+    <td>0</td>
+    <td>3</td>
+    <td>400</td>
+    <td>May the butt-kickery commence!!!</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#30</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Hireling</td>
+    <td>1</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>0</td>
+    <td>Spare changeeee... I'll help you kill monsters for some spare changeeeeee</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#31</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Pantyhose of Giant Strength</td>
+    <td>3</td>
+    <td>0</td>
+    <td>3</td>
+    <td>600</td>
+    <td>Rumors have surfaced in recent years that these pantyhose can be stretched around the circumference of the earth twice!</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#32</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Bad-Ass Bandana</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+    <td>400</td>
+    <td>Is this supposed to fit this tight? Woaahhhhh what if bandanas were just long bananas.... yuhhh</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#33</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Huge Rock</td>
+    <td>3</td>
+    <td>0</td>
+    <td>2</td>
+    <td>0</td>
+    <td>This rock is very impressive... I promise!</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#34</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Rapier of Unfairness</td>
+    <td>3</td>
+    <td>0</td>
+    <td>2</td>
+    <td>600</td>
+    <td>Stoppppp that's not fairrrrr, mom said it's my turn on the xboxxxxx</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#35</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Flaming Poison Potion</td>
+    <td>3</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>100</td>
+    <td>Play during any combat; Usable only once</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#36</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Cotion of Ponfusion</td>
+    <td>3</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>100</td>
+    <td>Render your enemies ponfused with this cotion</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#37</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Yuppie Water</td>
+    <td>2</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>100</td>
+    <td>Does anyone else feel dizzy?</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#38</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Potion of Idiotic Bravery</td>
+    <td>2</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>100</td>
+    <td>Something feels funny...</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#39</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Sleep Potion</td>
+    <td>2</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>100</td>
+    <td>I'm just gonna take a quick nap...</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#40</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Freezing Explosive Potion</td>
+    <td>3</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>100</td>
+    <td>Ice booms</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#41</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Potion of Halitosis</td>
+    <td>2</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>100</td>
+    <td>Instantly kills any Fluffy White Moth in your way!</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#42</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Magic Missle</td>
+    <td>5</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>300</td>
+    <td>Aren't these supposed to track people?!</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#43</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Electric Radioactive Acid Potion</td>
+    <td>5</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>200</td>
+    <td>Am I green? I'm definitely green right now...</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#44</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Pretty Balloons</td>
+    <td>5</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>0</td>
+    <td>Woahhhhh shinyyyyyyyyy</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#45</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Nasty-Tasting Sports Drink</td>
+    <td>2</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>200</td>
+    <td>Eww I thought I grabbed a Monster but it's a Bang Energy</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#46</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Convenient Addition Error</td>
+    <td>GUAL</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>0</td>
+    <td>2 + 2 = 22</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#47</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Mutilate the Bodies</td>
+    <td>GUAL</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>0</td>
+    <td>This *has* to be illegal... right?</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#48</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Kill the Pineapple</td>
+    <td>GUAL</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>0</td>
+    <td>Go up a level</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#49</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Whine at the GM</td>
+    <td>GUAL</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>0</td>
+    <td>GUAL</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#50</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Invoke Obscure Rules</td>
+    <td>GUAL</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>-750000</td>
+    <td>GUAL</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#51</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Bribe GM with Food</td>
+    <td>GUAL</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>-6000</td>
+    <td>GUAL (Go unleash all limits) and eat some food</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#52</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>1,000 Gold Pieces</td>
+    <td>GUAL</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>1000</td>
+    <td>GUAL</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#53</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Boil an Anthill</td>
+    <td>GUAL</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>-600</td>
+    <td>GUAL</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
     <td>#54</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
+    <td>Potion of General Studliness</td>
+    <td>GUAL</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>-450</td>
     <td></td>
     <td>From the actual game Munchkin</td>
   </tr>
