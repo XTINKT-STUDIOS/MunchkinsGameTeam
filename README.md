@@ -137,7 +137,7 @@ Example Of Inventory Information
 ```
 =======================     =======================
 | Andrew Tate's Sword |     |     Grippy Socks    |
-|======< Hands >======|     |=====< Footwear >====|
+|======< **Hands** >======|     |=====< **Footwear** >====|
 |---------------------|     |---------------------|
 | Attack: +1          |     | Attack: -10         |
 | Run:    +0          |     | Run:    +5          |
