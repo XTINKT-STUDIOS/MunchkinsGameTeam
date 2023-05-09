@@ -207,4 +207,544 @@ Example Of Inventory Information
     <td>Description for in-game clarity</td>
     <td>Extra notes for development use</td>
   </tr>
+  <tr>
+    <td>#1</td>
+    <td>Sneaky Bastard Sword</td>
+    <td>2</td>
+    <td>0</td>
+    <td>2</td>
+    <td>400</td>
+    <td>Good description here (trust me)</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#2</td>
+    <td>Short Wide Armour</td>
+    <td>3</td>
+    <td>0</td>
+    <td>1</td>
+    <td>400</td>
+    <td>Who was this even made for?!?!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#3</td>
+    <td>Hammer of Kneecappening</td>
+    <td>4</td>
+    <td>0</td>
+    <td>2</td>
+    <td>600</td>
+    <td>The kneecappening is happening</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#4</td>
+    <td>Eleven-Foot Pole</td>
+    <td>1</td>
+    <td>0</td>
+    <td>2</td>
+    <td>200</td>
+    <td>Why are there so many feet on this pole...</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#5</td>
+    <td>Rat on a Stick</td>
+    <td>1</td>
+    <td>0</td>
+    <td>2</td>
+    <td>0</td>
+    <td>It's a rat... on a stick!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#6</td>
+    <td>Broad Sword</td>
+    <td>3</td>
+    <td>0</td>
+    <td>2</td>
+    <td>400</td>
+    <td>Is this even practical?</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#7</td>
+    <td>Flaming Armour</td>
+    <td>2</td>
+    <td>0</td>
+    <td>1</td>
+    <td>400</td>
+    <td>Does anyone smell burnt chicken...?</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#8</td>
+    <td>Singing & Dancing Sword</td>
+    <td>2</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>400</td>
+    <td>I'MMMMM GONNNAAA SWINGGGGG FROM THE CHANDELIERRRRRRRRRR</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#9</td>
+    <td>Really Impressive Title</td>
+    <td>3</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>0</td>
+    <td>"Monocle Gentlesir"</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#10</td>
+    <td>Horny Helmet</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>600</td>
+    <td>Get your head out of the gutter.... and that helmet!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#11</td>
+    <td>Stepladder</td>
+    <td>3</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>400</td>
+    <td>There's a joke here; I can't make it, but it's there.</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#12</td>
+    <td>Gentlemen's Club</td>
+    <td>3</td>
+    <td>0</td>
+    <td>2</td>
+    <td>400</td>
+    <td>Magic Mike has something to say about this...</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#13</td>
+    <td>Buckler of Swashing</td>
+    <td>2</td>
+    <td>0</td>
+    <td>2</td>
+    <td>400</td>
+    <td>You've rendered my timbers shivered!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#14</td>
+    <td>Staff of Napalm</td>
+    <td>5</td>
+    <td>0</td>
+    <td>2</td>
+    <td>800</td>
+    <td>Napalm... that sounds famili-!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#15</td>
+    <td>Slimey Armour</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>200</td>
+    <td>Ewwww this must've been in Shrek's swamp</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#16</td>
+    <td>Mithril Armour</td>
+    <td>3</td>
+    <td>0</td>
+    <td>1</td>
+    <td>600</td>
+    <td>What makes it so heavy?</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#17</td>
+    <td>Helm of Courage</td>
+    <td>1</td>
+    <td>0</td>
+    <td>0</td>
+    <td>200</td>
+    <td>It's sqeezing my braincells!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#18</td>
+    <td>Bow with Ribbons</td>
+    <td>4</td>
+    <td>0</td>
+    <td>2</td>
+    <td>800</td>
+    <td>Hi! I'm Jojo Siwa, and my life... is pretty crazy!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#19</td>
+    <td>Cloak of Obscurity</td>
+    <td>4</td>
+    <td>0</td>
+    <td>1</td>
+    <td>600</td>
+    <td>YOU CANT SEE ME! *waves hand violently in front of face*</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#20</td>
+    <td>Swiss Army Polearm</td>
+    <td>4</td>
+    <td>0</td>
+    <td>2</td>
+    <td>600</td>
+    <td>This military veteran from Switzerland is ready to fight any monster in your way!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#21</td>
+    <td>Spiky Knees</td>
+    <td>1</td>
+    <td>0</td>
+    <td>3</td>
+    <td>200</td>
+    <td>That's a knee slapper.... ouch!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#22</td>
+    <td>Pointy Hat of Power</td>
+    <td>3</td>
+    <td>0</td>
+    <td>0</td>
+    <td>400</td>
+    <td>NOT THAT POINTY HAT, WRONG POINTY HAT!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#23</td>
+    <td>Leather Armour</td>
+    <td>1</td>
+    <td>0</td>
+    <td>1</td>
+    <td>200</td>
+    <td>Something tells me this armour is in high demand within a certain audience...</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#24</td>
+    <td>Cheese Grater of Peace</td>
+    <td>3</td>
+    <td>0</td>
+    <td>2</td>
+    <td>400</td>
+    <td>You better pray yor lactose intolerance runs away faster than you can >:)</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#25</td>
+    <td>Dagger of Tree Archery</td>
+    <td>3</td>
+    <td>0</td>
+    <td>2</td>
+    <td>400</td>
+    <td>Gosh, I feel like someone is shooting daggers at me... OH WAI-!</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#26</td>
+    <td>Chainsaw of Bloody Dismemberment</td>
+    <td>3</td>
+    <td>0</td>
+    <td>2</td>
+    <td>600</td>
+    <td>We did specify *fake* props for halloween... right?</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#27</td>
+    <td>Limburger and Anchovy Sandwich</td>
+    <td>3</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>400</td>
+    <td>Anyone who eats this will projectile vomit instantanously</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#28</td>
+    <td>Shield of Ubiquity</td>
+    <td>4</td>
+    <td>0</td>
+    <td>2</td>
+    <td>600</td>
+    <td>Wait, this isn't the faulty batch... right?</td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#29</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#30</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#31</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#32</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#33</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#34</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#35</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#36</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#37</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#38</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#39</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#40</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#41</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#42</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#43</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#44</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#45</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#46</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#47</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#48</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#49</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#50</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#51</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#52</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#53</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
+  <tr>
+    <td>#54</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>00</td>
+    <td></td>
+    <td>From the actual game Munchkin</td>
+  </tr>
 </table>
