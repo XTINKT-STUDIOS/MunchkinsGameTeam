@@ -186,6 +186,10 @@ Example Of Inventory Information
 
 <br />
 
+# All Cards
+
+<br />
+
 ## Treasures Index
 
 <table>
@@ -751,212 +755,212 @@ Example Of Inventory Information
   </tr>
   <tr>
     <td>#55</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Andrew Tate's Sword</td>
+    <td>1</td>
+    <td>0</td>
+    <td>2</td>
+    <td>600</td>
+    <td>Instantly kills the 'Andrew Tate' monster; standard attack bonus to any other monster. (idk if yall wanna implement this but here you go)</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#56</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>SuperToaster</td>
+    <td>2</td>
+    <td>0</td>
+    <td>2</td>
+    <td>400</td>
+    <td>Sprays monsters with water then electricutes them</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#57</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Not-So-Lunar Eclipse</td>
+    <td>-10</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>-500</td>
+    <td>Visual Studios Code is better, take a -10 bonus for using the wrong IDE</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#58</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>AP Exam Answers</td>
+    <td>-5</td>
+    <td>10</td>
+    <td>-1</td>
+    <td>300</td>
+    <td>Woah there buddy, don't be cheating now. You'd better run away!</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#59</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>'MERICA</td>
+    <td>25</td>
+    <td>-5</td>
+    <td>-1</td>
+    <td>900</td>
+    <td>WE DON'T RUN FROM OUR PROBLEMS, THEY RUN FROM US!</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#60</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Mystery Machine</td>
+    <td>12</td>
+    <td>2</td>
+    <td>-1</td>
+    <td>600</td>
+    <td>Haha you thought it was gonna be from Scorby Don't, but no, it's just a normal van.</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#61</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Minesweeper - Easy Mode</td>
+    <td>10</td>
+    <td>-4</td>
+    <td>-1</td>
+    <td>-100</td>
+    <td>Force the monster to play minesweeper on easy mode</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#62</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Minesweeper - Intermediate Mode</td>
+    <td>15</td>
+    <td>-12</td>
+    <td>-1</td>
+    <td>-300</td>
+    <td>Force the monster to play minesweeper on intermediate mode</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#63</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Minesweeper - Ludacris Mode</td>
+    <td>19</td>
+    <td>-30</td>
+    <td>-1</td>
+    <td>-800</td>
+    <td>Force the monster to play minesweeper on Ludacris mode (yes, the rapper)</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#64</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Windows Update</td>
+    <td>-50</td>
+    <td>-100</td>
+    <td>-1</td>
+    <td>-900</td>
+    <td>Please wait while Windows applies updates, do not restart or turn off your device.</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#65</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>GitHub Backup</td>
+    <td>10</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>400</td>
+    <td>Good job, you backed up your health to a GitHub repo!</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#66</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Texas Weather</td>
+    <td>10</td>
+    <td>-10</td>
+    <td>-1</td>
+    <td>200</td>
+    <td>Confuse the enemy with your bipolar weather!</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#67</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Switch Case</td>
+    <td>32</td>
+    <td>16</td>
+    <td>-1</td>
+    <td>-200</td>
+    <td>Good job, you finally realised it's better than If-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Elseif-Else</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#68</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Never-Ending While Loop</td>
+    <td>-15</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>-500</td>
+    <td>You made it, you're stuck with it. Tough luck.</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#69</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Follow a W3SCHOOLS Tutorial</td>
+    <td>2</td>
+    <td>0</td>
+    <td>-1</td>
+    <td>100</td>
+    <td>Yay, you followed a tutorial that will not apply to your project in any way! Well done!</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#70</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Blast Phonk Music</td>
+    <td>15</td>
+    <td>10</td>
+    <td>-1</td>
+    <td>400</td>
+    <td>DROWN THE ENEMY OUT, YOU ARE FEARLESS, YOU ARE PHONKY</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#71</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Black Hair Dye</td>
+    <td>10</td>
+    <td>-10</td>
+    <td>-1</td>
+    <td>300</td>
+    <td>Become one with the goth kids</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#72</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Summon Mankin Developers</td>
+    <td>-100</td>
+    <td>-100</td>
+    <td>-1</td>
+    <td>-2000</td>
+    <td>YOU HAVE SUMMONED US FROM OUR SLUMBE- I MEAN VERY IMPORTANT WORK. TAKE A DE-BUFF</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#73</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Morgan Freeman Pep-Talk</td>
+    <td>25</td>
+    <td>5</td>
+    <td>-1</td>
+    <td>400</td>
+    <td>May a wave of bliss and calmness flow through you as you listen to his deep, soothing voice</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#74</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Scorby Don't</td>
+    <td>-5</td>
+    <td>-2</td>
+    <td>-1</td>
+    <td>100</td>
+    <td>Ruh Roh! <- Dont copyright that</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
     <td>#75</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>00</td>
-    <td></td>
+    <td>Grippy Socks</td>
+    <td>-10</td>
+    <td>5</td>
+    <td>-1</td>
+    <td>200</td>
+    <td>You know what you did to get here... (the socks are from a mental hospital)</td>
     <td>Custom Made by a Mankin Developer</td>
   </tr>
   <tr>
