@@ -750,7 +750,7 @@ Example Of Inventory Information
     <td>0</td>
     <td>-1</td>
     <td>-450</td>
-    <td></td>
+    <td>GUAL</td>
     <td>From the actual game Munchkin</td>
   </tr>
   <tr>
