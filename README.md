@@ -187,7 +187,7 @@ Example Of Inventory Information
 <br />
 
 # All Cards
-
+###### Every card of each type within the game
 <br />
 
 ## Treasures Index
