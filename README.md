@@ -159,7 +159,7 @@ Example Of Inventory Information
     <td>Lead Programmer</td>
   </tr>
   <tr>
-    <td>Brody M</td>
+    <td>Brody Merritt</td>
     <td>Treasure Cards Assembly & Implementation, Github Manager</td>
   </tr>
   <tr>
