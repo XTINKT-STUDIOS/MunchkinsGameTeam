@@ -206,7 +206,7 @@ Example Of Inventory Information
     <td>Integer</td>
     <td>Integer; Head = 0; Left = 1; Right = 2; Armor = 3; Footwear = 4; Out-of-body = -1</td>
     <td>Integer</td>
-    <td>Description for in-game clarity</td>
+    <td>Description</td>
     <td>Extra notes for development use</td>
   </tr>
   <tr>
@@ -681,7 +681,7 @@ Example Of Inventory Information
   </tr>
   <tr>
     <td>#48</td>
-    <td>Kill the Pineapple</td>
+    <td>Kill the White Fluffy Moth</td>
     <td>GUAL</td>
     <td>0</td>
     <td>-1</td>
@@ -1229,7 +1229,7 @@ Example Of Inventory Information
     <td>Example Monster</td>
     <td>Integer</td>
     <td>Integer</td>
-    <td>Description for in-game clarity</td>
+    <td>Description</td>
     <td>Extra notes for development use</td>
   </tr>
 </table>
