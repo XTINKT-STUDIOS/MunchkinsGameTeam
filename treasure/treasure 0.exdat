@@ -1,3 +1,6 @@
-n is name
-b is bonus(int)
+n is name 
+b is bonus(int) {if level up GUAL}  // its an int bonus or the string gual (go-up-a-level)
+r is run bonus
+l head(0), body(1), hands(2), feet(3), not on person(-1)
+g is gold value(int)
 d is description

@@ -1,0 +1,6 @@
+n Bitwise Bug
+b 30
+t 9
+s 
+e 
+d It shifts your power down to zero.

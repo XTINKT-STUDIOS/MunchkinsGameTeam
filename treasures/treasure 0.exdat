@@ -1,0 +1,5 @@
+n is name
+b is bonus(int) {if level up GUAL}
+r is run bonus
+l head(0), body(1), hands(2), feet(3)
+d is description

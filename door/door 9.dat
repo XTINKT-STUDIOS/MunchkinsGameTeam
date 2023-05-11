@@ -1,4 +1,6 @@
 n Recursive Code
 b 4
 t 2
+s GDAL
+e 1
 d If you lose, it'll trap you in an infinite loop.
