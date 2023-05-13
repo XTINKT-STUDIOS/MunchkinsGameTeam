@@ -38,10 +38,16 @@ public class Player {
         // sets name
         System.out.println("What is your name?");
         name = x.nextLine();
+        if (name.length() == 0) {
+            name = "Big dumb dumb loser face that cant put in a name";
+            System.out.println("Your name is now: " + name);
+            name = "Dummy";
+            System.out.println("Just kidding, your name is: " + name);
+        }
 
         // sets class
          while(job[0] == null){
-            System.out.println("What class do you want to be?\n [N]oble\n [P]irate\n [S]paceman\n [D]uck\n [A]lien\n [W]izard\n [K]night");       	
+            System.out.println("What class do you want to be?\n [N]oble\n [P]irate\n [S]paceman\n [D]uck\n [A]lien\n [W]izard\n [K]night\n");       	
         	String cla = x.nextLine();   
         	if(cla.toLowerCase().equals("n")){
         		job[0] = "Noble";
@@ -78,7 +84,7 @@ public class Player {
 
             // sets race
              while(race[0] == null){
-            System.out.println("What race do you want to be?\n [P]ineapple\n [D]emon\n [R]agon\n [G]oose\n [Z]ebra\n [J]oe Rogan");       	
+            System.out.println("What race do you want to be?\n [P]ineapple\n [D]emon\n [R]agon\n [G]oose\n [Z]ebra\n [J]oe Rogan\n");       	
         	String raw = x.nextLine();   
         	if(raw.toLowerCase().equals("p")){
         		race[0] = "Pineapple";
@@ -118,14 +124,14 @@ public class Player {
     // returns player class and race stats
     public int getAttack() {
 		int atk = 0;
-		for(int i = 0; i < items.size()-1;i++){
+		for(int i = 0; i < items.size();i++){ // why is this '<' AND 'size()-1' ??? does this not leave out the last element?
 			atk += Integer.parseInt(items.get(i).get(1)); 		} 
-		return atk + Integer.parseInt(job[1]) + (Integer.parseInt(race[1]));
+		return atk + Integer.parseInt(job[1]) + (Integer.parseInt(race[1])) + getLevel(); // added + getLevel() so the attack includes the level of the player
 		} 
 		
     public int getRun() {
 		int p = 0;
-		for(int i = 0; i < items.size()-1;i++){
+		for(int i = 0; i < items.size();i++){
 			p += Integer.parseInt(items.get(i).get(2)); 		} 
 		return p + Integer.parseInt(job[2]) + (Integer.parseInt(race[2]));
 		}
@@ -164,7 +170,7 @@ public class Player {
     public String getItems(){
         String place = "";
         for(int i = 0; i < items.size(); i++){
-            place += "["+i+"] "+items.get(i).get(0)+": "+items.get(i).get(5)+"\n";
+            place += "["+i+"]\n" + Run.displayCard(items.get(i)) + "\n";
         }
         return place;
     }
@@ -177,8 +183,9 @@ public class Player {
     //slot indexes: [0] head | [1] body | [2] left | [3] right | [4] feet
 	public void equip(int v){
        int ind = Integer.parseInt(cards.get(v).get(3));
-       
-       removeEquip(ind);
+       if(ind >= 0) {
+    	   removeEquip(ind);
+       }
        
        if(ind == 3){
            if(!slot[4]){		
@@ -229,11 +236,11 @@ public class Player {
                 slot[ind] = false;
             } else { return; }
         }
-    	for(int i = 0; i < getNumItems(); i++) {
-    		if(items.get(i).get(3).equals(""+ind)) {
-    			items.remove(i);
-    			break;
-    		}
+        for(int i = 0; i < getNumItems(); i++) {
+        	if(items.get(i).get(3).equals(""+ind)) {
+        		items.remove(i);
+        		break;
+        	}
     	}
     }
 
@@ -241,7 +248,7 @@ public class Player {
     public String getCards(){
         String brun = "";
         for(int i = 0; i < cards.size(); i++){
-            brun += "["+i+"] "+cards.get(i).get(0)+": " + cards.get(i).get(5)+"\n";
+            brun += "["+i+"]\n"+Run.displayCard(cards.get(i)) +"\n";
         }
         return brun;
     }
@@ -249,4 +256,10 @@ public class Player {
     public void addCard(Treasure card) throws Exception {
     	cards.add(card.get());
     }
+    
+    
+    
+    
+    
+    
 }

@@ -1,4 +1,6 @@
 n BogoSort Robot
-b 20
-t 5
+b 100
+t 24
+s DED
+e 0
 d It's longest number of shuffles for a sort was 10 billion.

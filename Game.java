@@ -35,8 +35,9 @@ public class Game {
 	}
 	
 	public boolean nextRound(Player p) throws Exception {
+		System.out.println("\n\n------------------------------------------------------------------------------------------------------------------\n");
 		ArrayList<String> card = d.get();
-		System.out.println(p.getName() + " kicks down the door and finds a " + card.get(0) + "\n[1] Items\n[2] Self\n[3] Description\n[4] Fight\n[5] Run");
+		System.out.println(p.getName() + " kicks down the door and finds a " + card.get(0) + "\n[1] Items\n[2] Your Stats\n[3] Monster Stats\n[4] Fight\n[5] Run\n");
 		String str = scan.nextLine();
 		
 		while(str.length() > 1 && !(str.equals("1") || str.equals("2") || str.equals("3") || str.equals("4") || str.equals("5"))) {
@@ -46,13 +47,14 @@ public class Game {
 		while(!str.equals("4") && !str.equals("5")) {
 			switch(str) {
 				case "1":
-					System.out.println("Which item would you like to use?");
+					System.out.println("Which item would you like to use? (-1 if you don't want to equip anything)");
 					System.out.println(p.getCards());// get a better brain - treasure guy codechecking the game class
 					try {
 						int ind = scan.nextInt();
 						switch(ind) {
 							case -1:
 								System.out.println("suit yourself");
+								break;
 							default: {
 								try {
 									p.useItem(ind);
@@ -67,13 +69,13 @@ public class Game {
 					scan.nextLine();
 					break;
 				case "2":
-					System.out.println("Gender: " + p.getGender() + "\nLevel: [" + p.getLevel() + "]\nAttack: [" + p.getAttack() + "]\nRun: [" + p.getRun() + "]\nCurrently Equipped:\n" + p.getItems());
+					System.out.println("Gender: " + p.getGender() + "\nLevel: [" + p.getLevel() + "]\nAttack: [" + p.getAttack() + "]\nRun: [" + p.getRun() + "]\nCurrently Equipped:\n" + p.getItems() + "\n");
 					break;
 				case "3":
-					System.out.println("\n" + card.get(0) + ": " + card.get(1) + " [ATK]\n" + card.get(3));
+					System.out.println("\n" + card.get(0) + ": " + card.get(1) + " [ATK]\n" + card.get(3) + "\n");
 					break;
 			}
-			System.out.println("[1] Items\n[2] Self\n[3] Description\n[4] Fight\n[5] Run"); // ---> no it doesnt <---
+			System.out.println("[1] Items\n[2] Your Stats\n[3] Monster Stats\n[4] Fight\n[5] Run\n"); // ---> no it doesnt <---
 			str = scan.nextLine(); // L + ratio stupid idiot no brain haver get one at the brain store!
 		}
 		if(str.equals("4")) {

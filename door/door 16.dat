@@ -1,4 +1,6 @@
 n RAM ram
 b 12
 t 3
+s 
+e 
 d It's already used up all its RAM.

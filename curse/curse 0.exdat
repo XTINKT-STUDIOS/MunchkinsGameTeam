@@ -1,0 +1,4 @@
+n Name
+a Action (GDAL [-1 level] | ATK [-random or num] | RUN [-random or num] | REM [-Random equip] | CAR [-random card] | ETX [Extra Munster] | LAL [Lose all levels])
+e Effect Amount [if (R) random amount (1-10)]
+d description
